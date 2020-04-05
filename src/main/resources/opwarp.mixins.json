@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "draylar.opwarp.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "WarpCommandMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
